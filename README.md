@@ -47,8 +47,8 @@ Below comand will start cluster deployment
 ```
 curl -H "X-Requested-By: ambari" -X POST -u admin:admin http://<AMBARHOST>:8080/api/v1/clusters/<CLUSTERNAME> -d @hosts.json
 ```
-## CLUSTERNAME
-   <CLUSTERNAME> : hdp_cluster
+## <CLUSTERNAME>
+   CLUSTERNAME : hdp_cluster
 ## Passwords
 
 Admin/Database password for all services is `hadoop`
