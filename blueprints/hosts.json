@@ -1,5 +1,5 @@
 {
-    "blueprint":"jarvis",
+    "blueprint":"hdp_cluster",
     "default_password":"admin",
     "host_groups":[
       { 
