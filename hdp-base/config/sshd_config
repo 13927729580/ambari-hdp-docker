@@ -28,8 +28,6 @@ LoginGraceTime 120
 PermitRootLogin without-password
 StrictModes no
 
-StrictHostKeyChecking no
-
 RSAAuthentication yes
 PubkeyAuthentication yes
 AuthorizedKeysFile	%h/.ssh/authorized_keys
